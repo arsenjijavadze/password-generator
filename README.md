@@ -1,5 +1,5 @@
 # Password Generator App
-<img src='/.preview.png' width='600'>
+<img src='/preview.png' width='600'>
 
 This is the solution to the Password Generator in JavaScript
 
